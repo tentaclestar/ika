@@ -2,7 +2,7 @@
 
 int main(void){
 
-  printf("夢と希望をHDDに詰め込んで");
+  printf("夢と希望と嫁をHDDに詰め込んで"); //
 
 }
 
