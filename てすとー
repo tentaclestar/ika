@@ -1,0 +1,9 @@
+#include<sydio.h>
+
+int main(){
+
+printf("さっきと変わらないような内容だがそんなことよりおうどん食べたい");
+}
+
+
+return 0;
